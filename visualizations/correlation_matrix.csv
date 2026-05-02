@@ -1,0 +1,7 @@
+,obesity_pct,median_income,grocery_per_10k,drove_pct,bachelors_pct,uninsured_pct
+obesity_pct,1.0,-0.56,0.065,0.435,-0.71,0.742
+median_income,-0.56,1.0,-0.22,-0.29,0.708,-0.454
+grocery_per_10k,0.065,-0.22,1.0,0.002,-0.146,0.001
+drove_pct,0.435,-0.29,0.002,1.0,-0.551,0.406
+bachelors_pct,-0.71,0.708,-0.146,-0.551,1.0,-0.662
+uninsured_pct,0.742,-0.454,0.001,0.406,-0.662,1.0

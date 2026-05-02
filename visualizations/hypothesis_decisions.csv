@@ -1,0 +1,6 @@
+variable,expected_direction,coefficient,p_value_two_tailed,p_value_one_tailed,sign_matches,decision_alpha_05
+median_income,negative,-0.0,0.0978,0.0489,True,Reject H0
+grocery_per_10k,negative,-0.0062,0.9443,0.4722,True,Fail to reject H0
+drove_pct,positive,0.0229,0.4455,0.2227,True,Fail to reject H0
+bachelors_pct,negative,-0.0717,0.0156,0.0078,True,Reject H0
+uninsured_pct,positive,0.199,0.0,0.0,True,Reject H0

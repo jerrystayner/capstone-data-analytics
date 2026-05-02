@@ -1,0 +1,2 @@
+train_n,test_n,test_rmse,test_r2
+90,23,2.341,0.246
